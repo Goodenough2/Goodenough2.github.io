@@ -3,13 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ""
-description: ""
-keywords:
-author: John Doe
-language: en
-timezone: ""
+title: day day up
+subtitle: 前端学习日志
+description: 前端学习过程中的一些思考和回顾。
+keywords: "前端,JavaScript, HTML, CSS, VUE, React, Node.js, 前端学习日志, 前端学习笔记"
+author: dwang
+language: zh-CN
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -102,5 +101,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Goodenough2/study-note.github.io.git
+  repo: git@github.com:Goodenough2/Goodenough2.github.io.git
   branch: master
