@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: day day up
+title: day day up!
 subtitle: 前端学习日志
 description: 前端学习过程中的一些思考和回顾。
 keywords: "前端,JavaScript, HTML, CSS, VUE, React, Node.js, 前端学习日志, 前端学习笔记"
@@ -28,6 +28,13 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+
+back2top:
+  enable: true
+
+reading_progress:
+  enable: true
+  color: "#000000"
 
 # Writing
 new_post_name: :title.md # File name of new posts
